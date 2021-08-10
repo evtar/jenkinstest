@@ -25,8 +25,11 @@ echo "..Now add $username in samba access config => "
     nano /etc/samba/smb.conf
     systemctl reload smbd
 
-echo "SMB Daemon reloaded."
-exit
-
- 
+echo "
+dsfdsfdsfsd
+d
+sf
+dsf
+ds
+fSMB Daemon reloade
 JeNKINS PRIVET
