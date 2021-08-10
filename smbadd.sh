@@ -28,3 +28,5 @@ echo "..Now add $username in samba access config => "
 echo "SMB Daemon reloaded."
 exit
 
+ 
+JeNKINS PRIVET
