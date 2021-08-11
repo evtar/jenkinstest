@@ -15,7 +15,13 @@ echo "fg dfgdfg
     passwd $username
 
 echo "Added UNIX user $username "
-    sleep 2
+    sleep 2sadsad sdsadsad
+    sa
+    d s
+    ad
+     sa
+     d 
+     sa
 
 echo " => Generating samba password for $username: "
     pwgen 8
