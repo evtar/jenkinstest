@@ -13,7 +13,13 @@ echo "fg dfgdfg
  fdg addidfgfdgfdgfdgfdng UNIX user $username and set password: "
     useradd $username
     passwd $username
-
+ewrew erevrewvr
+wev
+rvew
+rv
+ew
+v
+ewvr
 echo "Added UNIX user $username "
     sleep 2sadsad sdsadsad
     sa
