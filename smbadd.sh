@@ -4,7 +4,13 @@ echo "enter username: "
 
     read username
 
-echo "adding UNIX user $username and set password: "
+echo "fg dfgdfg
+ df
+ g 
+ df
+ g df g
+ 
+ fdg addidfgfdgfdgfdgfdng UNIX user $username and set password: "
     useradd $username
     passwd $username
 
