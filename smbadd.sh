@@ -7,6 +7,7 @@ echo "enter username: "
 echo "fg dfgdfg
  df
  g 
+ХУЙ
  df
  g df g
  
