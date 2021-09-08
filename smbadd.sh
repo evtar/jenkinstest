@@ -38,6 +38,7 @@ fsd
  sd
   f
      d 
+ДЖЕНКНС ПРИВЕТ!
      sa
 
 echo " => Generating samba password for $username: "
