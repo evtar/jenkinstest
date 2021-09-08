@@ -14,7 +14,7 @@ echo "fg dfgdfg
  fdg addidfgfdgfdgfdgfdng UNIX user $username and set password: "
     useradd $username
     passwd $username
-ewrew erevrewvr
+ewrew erevrewvrавыа А ТЫ САМ МОЖЕШЬ СОБРАТЬ?А?А?А??А?А?А
 wev
 rvew
 rv
